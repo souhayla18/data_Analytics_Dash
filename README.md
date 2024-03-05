@@ -31,7 +31,7 @@ This dashboard provides key metrics and visualizations related to human resource
 Explore healthcare-related data visualizations, including patient outcomes, disease prevalence, and other critical metrics impacting the healthcare industry. 🏥🩺
 
 ### E-commerce Reporting
-[E-commerce Reporting Dashboard](ecommerce_reporting/README.md)
+[E-commerce Reporting Dashboard]([ecommerce_reporting/README.md](https://github.com/souhayla18/data_Analytics_Dash/blob/main/HR%20Analytics.pbix))
 
 Get comprehensive insights into e-commerce trends, customer behavior, and sales analytics to optimize your online business strategy. 🛒💻
 
