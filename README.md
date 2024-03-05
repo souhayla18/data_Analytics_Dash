@@ -21,7 +21,7 @@ This repository serves as a central hub for various analytics dashboards, making
 ## Dashboards
 
 ### HR Analytics
-[HR Analytics Dashboard](hr_analytics/README.md)
+[HR Analytics Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/HR%20Analytics.pbix)
 
 This dashboard provides key metrics and visualizations related to human resources, offering insights into employee performance, recruitment trends, and workforce analytics. 🤖👥
 
