@@ -47,7 +47,7 @@ For those in the travel and adventure industry, this dashboard provides analytic
 
 ## Getting Started
 
-To explore a specific dashboard, navigate to the corresponding directory and follow the instructions in the README file. Each dashboard's README contains details on how to set up, visualize data, and interpret the analytics. 🚀
+To explore a specific dashboard, navigate to the corresponding directory  visualize data, and interpret the analytics. 🚀
 
 ## Contributing
 
