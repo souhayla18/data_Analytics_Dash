@@ -26,22 +26,22 @@ This repository serves as a central hub for various analytics dashboards, making
 This dashboard provides key metrics and visualizations related to human resources, offering insights into employee performance, recruitment trends, and workforce analytics. 🤖👥
 
 ### Healthcare Analytics
-[Healthcare Analytics Dashboard](healthcare_analytics/README.md)
+[Healthcare Analytics Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/Healthcare%20Analytics%202.pbix)
 
 Explore healthcare-related data visualizations, including patient outcomes, disease prevalence, and other critical metrics impacting the healthcare industry. 🏥🩺
 
 ### E-commerce Reporting
-[E-commerce Reporting Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/HR%20Analytics.pbix)
+[E-commerce Reporting Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/ecommerceReporting%20)
 
 Get comprehensive insights into e-commerce trends, customer behavior, and sales analytics to optimize your online business strategy. 🛒💻
 
 ### Airbnb Reporting
-[Airbnb Reporting Dashboard](airbnb_reporting/README.md)
+[Airbnb Reporting Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/airbnbDash.pdf)
 
 This dashboard focuses on Airbnb data, showcasing occupancy rates, pricing trends, and geographical insights for hosts and travelers alike. 🏡✈️
 
 ### Adventure Reporting
-[Adventure Reporting Dashboard](adventure_reporting/README.md)
+[Adventure Reporting Dashboard](https://github.com/souhayla18/data_Analytics_Dash/blob/main/adventureworkes.pbit)
 
 For those in the travel and adventure industry, this dashboard provides analytics on popular destinations, user preferences, and travel trends. 🌍🚀
 
